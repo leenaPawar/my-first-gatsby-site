@@ -16,6 +16,12 @@
   "dependencies": {
     "@studio-freight/lenis": "^1.0.19",
     "gatsby": "^5.11.0",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-image": "^3.11.0",
+    "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-sharp": "^5.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scroll": "^1.8.9"

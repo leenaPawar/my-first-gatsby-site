@@ -8,6 +8,7 @@
   }
   p{
     color: green;
+    margin-bottom: 30px;
   }
   .nav-links {
     display: flex;
